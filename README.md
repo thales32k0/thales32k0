@@ -13,5 +13,5 @@
 
 ### 🛠️ Languages and Tools :
 
-<i class="devicon-java-original-workmark"></i>
+<i class="java-original-workmark"></i>
 <i class="devicon-java-plain devicon-3x colored" style="color: orange;"></i>
