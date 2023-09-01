@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Thales I am passionate about programming and technology
 
-[![Twitter](https://img.shields.io/twitter/follow/Thales32k?style=social)](https://twitter.com/Thales32k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Thales32k/)](https://www.linkedin.com/in/Thales32k/)
 
 <!--
 **thales32k0/thales32k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
