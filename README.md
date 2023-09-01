@@ -21,4 +21,4 @@
 ---
 
 ### 🔥 My stats: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thales32k&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thales32k0&hide_progress=true)
