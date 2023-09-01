@@ -7,7 +7,10 @@
 ### 👨🏻‍💻 About me:
 
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java
 
 ---
+
+### 🛠️ Languages and Tools :
+
+<i class="java"></i>
