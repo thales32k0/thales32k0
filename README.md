@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Thales I am passionate about programming and technology
+
+<a href="https://www.linkedin.com/in/thales32k/" target="_blank"><img src="URL-DO-BADGE" alt="LinkedIn"></a>
 
 <!--
 **thales32k0/thales32k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
