@@ -3,6 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thales32k/)](https://www.linkedin.com/in/thales32k/)
 
+[![Twitter](https://img.shields.io/twitter/follow/seu-nome-de-usuário?style=social)](https://twitter.com/seu-nome-de-usuário)
+
+
 <!--
 **thales32k0/thales32k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
