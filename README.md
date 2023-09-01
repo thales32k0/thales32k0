@@ -21,4 +21,4 @@
 ---
 
 ### 🔥 My stats: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thales32k)](https://github.com/thales32k0/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thales32k&langs_count=8)
