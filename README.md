@@ -2,8 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thales32k/)](https://www.linkedin.com/in/thales32k/)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/seu-nome-de-usuário?style=for-the-badge&logo=twitter&color=blue&logoColor=white)](https://twitter.com/seu-nome-de-usuário)
+[![Twitter Follow](https://img.shields.io/twitter/follow/t_eduzinho?style=for-the-badge&logo=twitter&color=blue&logoColor=white)](https://twitter.com/t_eduzinho)
 
 
 <!--
