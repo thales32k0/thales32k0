@@ -17,3 +17,8 @@
   <img src="intellij-original.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
   <img src="git-original-wordmark.svg" alt="Git" title="Gi" alt="Git" width="50" height="50" style="max-width: 100%;">
 </div>
+
+---
+
+### 🔥 My stats: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thales32k)](https://github.com/thales32k0/github-readme-stats)
