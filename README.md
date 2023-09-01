@@ -13,4 +13,5 @@
 
 ### 🛠️ Languages and Tools :
 
-<i class="java"></i>
+<i class="devicon-java-plain"></i>
+<i class="devicon-java-plain devicon-3x colored" style="color: orange;"></i>
