@@ -13,5 +13,5 @@
 
 ### 🛠️ Languages and Tools :
 
-<img src="java-original-wordmark.svg" alt="Java" width: 2%>
+<img src="java-original-wordmark.svg" alt="Java" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;">
 
