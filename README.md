@@ -14,4 +14,4 @@
 ### 🛠️ Languages and Tools :
 
 <img src="java-original-wordmark.svg" alt="Java">
-
+<i class="java-original-wordmark.svg -3x colored" </i>
