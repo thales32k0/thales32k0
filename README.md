@@ -12,6 +12,7 @@
 ---
 
 ### 🛠️ Languages and Tools :
-
-<img src="java-original-wordmark.svg" alt="Java" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
-<img src="intellij-original.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
+<div>
+  <img src="java-original-wordmark.svg" alt="Java" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
+  <img src="intellij-original.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
+</div>
