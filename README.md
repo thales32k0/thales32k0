@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Thales32k/)](https://www.linkedin.com/in/Thales32k/)
 
-
+# About me:
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
