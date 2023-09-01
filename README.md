@@ -13,5 +13,5 @@
 
 ### 🛠️ Languages and Tools :
 
-<img src="devicon-java-original-wordmark.svg" alt="Java">
+<img src="java-original-wordmark.svg" alt="Java">
 
