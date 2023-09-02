@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Thales I am passionate about programming and technology
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Thales32k/)](https://www.linkedin.com/in/Thales32k/)
+[![LinkedIn]([https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Thales32k/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Thales32k/)
 
 ---
 
