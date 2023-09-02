@@ -14,11 +14,14 @@
 ---
 
 ### 🛠️ Languages and Tools :
+
 <div>
   <img src="java-original-wordmark.svg" alt="Java" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
   <img src="intellij-original.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
   <img src="git-original-wordmark.svg" alt="Git" title="Git" alt="Git" width="50" height="50" style="max-width: 100%;">
   <img src="github-original-wordmark.svg" alt="Github" title="Github" alt="Github" width="50" height="50" style="max-width: 100%;">
+  <img src="html5-original-wordmark.svg" alt="Github" title="Github" alt="Github" width="50" height="50" style="max-width: 100%;">
+  <img src="css3-original-wordmark.svg" alt="Github" title="Github" alt="Github" width="50" height="50" style="max-width: 100%;">
 </div> 
 
 ---
