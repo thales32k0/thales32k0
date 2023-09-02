@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Thales32k/)](https://www.linkedin.com/in/Thales32k/)
 
+---
 
 ### 👨🏻‍💻 About me:
 
