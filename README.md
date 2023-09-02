@@ -20,9 +20,9 @@
   <img src="intellij-original.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
   <img src="git-original-wordmark.svg" alt="Git" title="Git" alt="Git" width="50" height="50" style="max-width: 100%;">
   <img src="github-original-wordmark.svg" alt="Github" title="Github" alt="Github" width="50" height="50" style="max-width: 100%;">
-  <img src="html5-original-wordmark.svg" alt="html" title="html" alt="html" width="50" height="50" style="max-width: 100%;">
-  <img src="css3-original-wordmark.svg" alt="css" title="css" alt="css" width="50" height="50" style="max-width: 100%;">
-  <img src="vscode-original-wordmark.svg" alt="vscode" title="vscode" alt="vscode" width="50" height="50" style="max-width: 100%;">
+  <img src="html5-original-wordmark.svg" alt="Html" title="Html" alt="Html" width="50" height="50" style="max-width: 100%;">
+  <img src="css3-original-wordmark.svg" alt="Css" title="Css" alt="Css" width="50" height="50" style="max-width: 100%;">
+  <img src="vscode-original-wordmark.svg" alt="Vscode" title="Vscode" alt="Vscode" width="50" height="50" style="max-width: 100%;">
 </div> 
 
 ---
