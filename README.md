@@ -8,6 +8,8 @@
 
 ### 👨🏻‍💻 About me:
 
+I'm a programming apprentice from Franca, São Paulo
+
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Java
 
