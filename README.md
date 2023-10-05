@@ -12,6 +12,8 @@ I'm a programming apprentice from Franca, São Paulo
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Java
+- 📖 Bachelor's degree in computer science
+- 🏃 Looking for junior developer jobs and internships
 
 ---
 
