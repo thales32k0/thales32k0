@@ -27,6 +27,7 @@ I'm a programming apprentice from Franca, São Paulo
   <img src="html5-original-wordmark.svg" alt="Html" title="Html" alt="Html" width="50" height="50" style="max-width: 100%;">
   <img src="css3-original-wordmark.svg" alt="Css" title="Css" alt="Css" width="50" height="50" style="max-width: 100%;">
   <img src="vscode-original-wordmark.svg" alt="Vscode" title="Vscode" alt="Vscode" width="50" height="50" style="max-width: 100%;">
+  <img src="icons8-logotipo-da-primavera.svg" alt="Vscode" title="Vscode" alt="Vscode" width="50" height="50" style="max-width: 100%;"
 </div> 
 
 ---
