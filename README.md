@@ -20,14 +20,14 @@ I'm a programming apprentice from Franca, São Paulo
 ### 🛠️ Languages and Tools :
 
 <div>
-  <img src="java-original-wordmark.svg" alt="Java" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
-  <img src="icons8-intellij-idea.svg" alt="Intellij" title="Intellij" alt="Intellij" width="50" height="50" style="max-width: 100%;">
-  <img src="icons8-logotipo-da-primavera.svg" alt="Vscode" title="Vscode" alt="Vscode" width="50" height="50" style="max-width: 100%;">
-  <img src="icons8-git.svg" alt="Git" title="Git" alt="Git" width="50" height="50" style="max-width: 100%;">
-  <img src="github-original-wordmark.svg" alt="Github" title="Github" alt="Github" width="50" height="50" style="max-width: 100%;">
-  <img src="html5-original-wordmark.svg" alt="Html" title="Html" alt="Html" width="50" height="50" style="max-width: 100%;">
-  <img src="css3-original-wordmark.svg" alt="Css" title="Css" alt="Css" width="50" height="50" style="max-width: 100%;">
-  <img src="vscode-original-wordmark.svg" alt="Vscode" title="Vscode" alt="Vscode" width="50" height="50" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   
 </div> 
 
